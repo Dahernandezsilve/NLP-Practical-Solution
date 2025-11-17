@@ -33,6 +33,7 @@ MANIFEST
 *.spec
 
 beto-author-clf/
+gpt2-sonetos/
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
